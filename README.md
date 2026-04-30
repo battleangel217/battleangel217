@@ -16,8 +16,8 @@ Currently studying Computer Science at the University of Uyo while working on pr
 
 ## Things I've built
 
-| Project | What it is | Stack |
-|---|---|---|
+| Project | What it is | Stack | Live Demo |
+|---|---|---|---|
 | [🎭 Mafia Voteout](https://github.com/battleangel217/MafiaVoteout) | Real-time multiplayer social deduction game with an in-game AI agent | Django Channels · WebSockets · Redis · Gemini | [Live Demo](https://mafiavoteout.onrender.com) |
 | [⚔️ SideQuest](https://github.com/battleangel217/sidequest) | Gamified productivity app — turn your tasks into quests | Django · Djoser · Brevo · Cloudinary | [Live Demo](https://sidequest-chi.vercel.app/) |
 | [🚌 RidePay Campus](https://github.com/battleangel217/RidePay) | Scan-to-pay campus transport system with offline token support | Django · Interswitch · Cryptographic tokens | [Live Demo](https://ridepay.vercel.app/) |
